@@ -1,5 +1,5 @@
 name 'learn_chef_apache2'
-maintainer 'The Authors'
+maintainer 'The Authors12'
 maintainer_email 'you@example.com'
 license 'all_rights'
 description 'Installs/Configures learn_chef_apache2'
